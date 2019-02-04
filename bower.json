@@ -1,0 +1,22 @@
+{
+  "name": "euqasi_test",
+  "description": "Página de cadastro de notas",
+  "main": "",
+  "authors": [
+    "Octávio Duarte"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "angular" : "1.6.4"
+  }
+}
